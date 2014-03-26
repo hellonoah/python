@@ -2,3 +2,4 @@ name: Your New Jekyll Site
 markdown: redcarpet
 pygments: false
 #pygments: true
+permalink: /:year/:month/:day/:title.html
