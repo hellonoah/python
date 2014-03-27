@@ -2,5 +2,5 @@ name: Your New Jekyll Site
 markdown: redcarpet
 pygments: true
 #pygments: true
-permalink: /:year/:month/:day/:title.html
-atom-baseurl: "http://rjarmand.github.io/python/"
+permalink: /python/:year/:month/:day/:title.html
+baseurl: "http://rjarmand.github.io/python/"
