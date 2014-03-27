@@ -3,4 +3,4 @@ markdown: redcarpet
 pygments: true
 #pygments: true
 permalink: /:year/:month/:day/:title.html
-base-url: /python
+baseurl: http://rjarmand.github.io/python/
