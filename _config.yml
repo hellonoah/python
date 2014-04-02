@@ -3,4 +3,7 @@ markdown: redcarpet
 pygments: false
 #pygments: true
 baseurl: /python
+<<<<<<< HEAD
 
+=======
+>>>>>>> add files for python repository
