@@ -8,5 +8,4 @@ categories: jekyll update
 Following the examples used in "Programming Python".
 
 
-[jekyll-gh]: https://github.com/rjarmand/python
 [jekyll]:    http://jekyllrb.com
