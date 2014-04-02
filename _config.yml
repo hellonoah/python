@@ -1,9 +1,5 @@
 name: Your New Jekyll Site
 markdown: redcarpet
-pygments: false
-#pygments: true
+pygments: true
+#pygments: false
 baseurl: /python
-<<<<<<< HEAD
-
-=======
->>>>>>> add files for python repository
