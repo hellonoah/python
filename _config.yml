@@ -1,7 +1,6 @@
 name: Your New Jekyll Site
 markdown: redcarpet
-pygments: true
+pygments: false
 #pygments: true
-#permalink: /python/:year/:month/:day/:title.html
 baseurl: /python
 
