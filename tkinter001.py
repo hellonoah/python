@@ -1,3 +1,3 @@
-from Tkinter import *
+from tkinter import *
 Label(text='Spam').pack()
 mainloop()
